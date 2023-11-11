@@ -23,7 +23,7 @@ Let's dive into the key features of our dataset:
 Data-driven decisions in healthcare are pivotal, and this project represents the epitome of leveraging data for the greater good. This ia predictive model that assist healthcare professionals in making timely and accurate decisions.
 
 # Model Selection and Evaluation
-for this project, 8 distinct Machine learning Algorithm will be applied to the dataset,in order to select the best fitted model for the prediction.
+for this project, 8 distinct Machine learning Algorithm (XGB Classifier, Random Forest, K-Nearest Neighbours, SGD Classifier, SVC, Naive Bayes, Decision tree, Logistic Regression) will be applied to the dataset,in order to select the best fitted model for the prediction.
 
 The accuracy, precision, recall, confusion matrix and ROC scores are the five main metrics that may be used to evaluate the machine learning models' performance in a supervised learning project on heart disease prediction. Every one of these measures offers insightful information about how well the model is working. After analyzing and explaining the outcomes for every model, let's decide which one worked best and offer a suggestion.
 
