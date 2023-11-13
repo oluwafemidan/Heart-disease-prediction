@@ -1,5 +1,5 @@
 # Heart Disease Prediction Using Supervised Machine Learning
-Create a model with machine learning that predicts the likelihood of a person having heart disease based on the features provided.
+Created a model with machine learning that predicts the likelihood of a person having heart disease based on the features provided.
 
 The objective of our project is simple: develop a machine-learning model that can forecast the chance of a person developing heart disease based on a variety of crucial factors. The appropriate and precise data can save lives, and we are determined to make a difference.
 
