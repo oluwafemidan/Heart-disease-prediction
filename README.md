@@ -25,7 +25,7 @@ Data-driven decisions in healthcare are pivotal, and this project represents the
 # Model Selection and Evaluation
 for this project, 8 distinct Machine learning Algorithm (XGB Classifier, Random Forest, K-Nearest Neighbours, SGD Classifier, SVC, Naive Bayes, Decision tree, Logistic Regression) will be applied to the dataset,in order to select the best fitted model for the prediction.
 
-The accuracy, precision, recall, confusion matrix and ROC scores are the five main metrics that may be used to evaluate the machine learning models' performance in a supervised learning project on heart disease prediction. Every one of these measures offers insightful information about how well the model is working. After analyzing and explaining the outcomes for every model, let's decide which one worked best and offer a suggestion.
+The accuracy, precision, recall, and ROC scores are the five main metrics that may be used to evaluate the machine learning models' performance in a supervised learning project on heart disease prediction. Every one of these measures offers insightful information about how well the model is working. After analyzing and explaining the outcomes for every model, let's decide which one worked best and offer a suggestion.
 
 # Accuracy Score:
 - Accuracy Score measures the overall correctness of predictions made by a model. It's the ratio of correctly predicted instances to the total instances in the dataset. A higher accuracy score is generally desirable.
@@ -51,7 +51,7 @@ The accuracy, precision, recall, confusion matrix and ROC scores are the five ma
 - The best-performing model in terms of ROC score is the Naive bayes.
 
 # Summary:
-Based on the analysis of these metrics, the Random Forest consistently performed well across Precision, Recall, and ROC Score. It achieved the highest recall and a competitive ROC score. Therefore, the Random Forest appears to be the best-performing model for this heart disease prediction task.
+Based on the analysis of these metrics, the Random Forest consistently performed well across Precision, Recall, and ROC Score. It achieved the highest Accuracy Score. Therefore, the Random Forest appears to be the best-performing model for this heart disease prediction task.
 
 # Recommendations:
 Considering the Random Forest's balanced performance across multiple metrics, it is recommended to use the Random Forest as the final model for heart disease prediction in this project. However, hyperparameter tuning and further evaluation using cross-validation techniques may help optimize the model's performance further.
