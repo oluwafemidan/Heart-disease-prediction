@@ -25,7 +25,7 @@ Data-driven decisions in healthcare are pivotal, and this project represents the
 # Model Selection and Evaluation
 for this project, 8 distinct Machine learning Algorithm (XGB Classifier, Random Forest, K-Nearest Neighbours, SGD Classifier, SVC, Naive Bayes, Decision tree, Logistic Regression) will be applied to the dataset,in order to select the best fitted model for the prediction.
 
-The accuracy, precision, recall, and ROC scores are the five main metrics that may be used to evaluate the machine learning models' performance in a supervised learning project on heart disease prediction. Every one of these measures offers insightful information about how well the model is working. After analyzing and explaining the outcomes for every model, let's decide which one worked best and offer a suggestion.
+The accuracy, precision, recall, and ROC scores are the four main metrics that may be used to evaluate the machine learning models' performance in a supervised learning project on heart disease prediction. Every one of these measures offers insightful information about how well the model is working. After analyzing and explaining the outcomes for every model, let's decide which one worked best and offer a suggestion.
 
 # Accuracy Score:
 - Accuracy Score measures the overall correctness of predictions made by a model. It's the ratio of correctly predicted instances to the total instances in the dataset. A higher accuracy score is generally desirable.
